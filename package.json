@@ -2,12 +2,10 @@
   "name": "gpt3_jsm",
   "version": "0.1.0",
   "private": true,
-
   "devDependencies": {
-    "react-scripts": "^5.0.1",
-    "@svgr/webpack": "6.2.1"
+    "@svgr/webpack": "6.2.1",
+    "react-scripts": "^5.0.1"
   },
-
   "dependencies": {
     "@jridgewell/sourcemap-codec": "^1.4.15",
     "@rollup/plugin-terser": "^0.4.3",
